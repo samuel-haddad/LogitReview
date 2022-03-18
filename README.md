@@ -1,1 +1,1 @@
-# diabetes_detection
+# Logit Model Review
